@@ -62,6 +62,4 @@ Commit your changes (git commit -m "Add my feature")
 
 Push to the branch (git push origin feature/my-idea)
 
-Open a Pull Request and describe your feature or improvement
 
-Please make sure to update tests and documentation where relevant.
