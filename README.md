@@ -61,5 +61,3 @@ Create your feature branch (git checkout -b feature/my-idea)
 Commit your changes (git commit -m "Add my feature")
 
 Push to the branch (git push origin feature/my-idea)
-
-
